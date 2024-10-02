@@ -1,2 +1,8 @@
-venv
+# name of the venv
+rag 
 .env
+# can be downloaded from https://learn.deeplearning.ai/courses/building-applications-vector-databases/
+# course materials
+wiki.csv
+.DS_Store
+.ipynb_checkpoints
