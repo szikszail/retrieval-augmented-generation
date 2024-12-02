@@ -7,3 +7,4 @@ wiki.csv
 .DS_Store
 .ipynb_checkpoints
 venv
+.venv
