@@ -37,7 +37,7 @@ fire==0.7.0
 Flask==3.0.3
 Flask-Cors==6.0.0
 flatbuffers==24.3.25
-fonttools==4.54.1
+fonttools==4.61.0
 fqdn==1.5.1
 frozenlist==1.4.1
 fsspec==2024.6.1
