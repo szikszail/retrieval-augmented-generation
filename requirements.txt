@@ -128,7 +128,7 @@ pinecone-text==0.9.0
 platformdirs==4.3.6
 prometheus_client==0.21.0
 prompt_toolkit==3.0.48
-protobuf==4.25.8
+protobuf==6.33.5
 psutil==6.0.0
 ptyprocess==0.7.0
 pure_eval==0.2.3
