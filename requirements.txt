@@ -83,7 +83,7 @@ kiwisolver==1.4.7
 langchain==0.3.1
 langchain_openai
 langchain_community
-langchain-core==0.3.81
+langchain-core==1.2.11
 langchain-text-splitters==1.0.0a1
 langgraph
 langsmith==0.1.129
