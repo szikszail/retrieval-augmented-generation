@@ -86,7 +86,7 @@ langchain_community
 langchain-core==1.2.22
 langchain-text-splitters==1.0.0a1
 langgraph
-langsmith==0.1.129
+langsmith==0.7.31
 libclang==18.1.1
 Markdown==3.8.1
 markdown-it-py==3.0.0
